@@ -7,6 +7,7 @@ Clone this repository onto your computer with
 ```git clone https://github.com/bwsi-hadr/student-access-images.git```.
 
 megan, nkkoran, Tori MEOW
+:) hello
  
 
 
